@@ -1,1 +1,10 @@
- 
+ body{
+    font-family: sohne;
+    padding: 80px;
+ }
+ img {
+    padding-bottom: 15px;
+}
+ figcaption {
+    padding-bottom: 50px;
+ }
