@@ -1,9 +1,18 @@
  body{
     font-family: sohne;
     padding: 80px;
+    margin-left: 10%;
+    font-weight: 500;
+    font-size: larger;
  }
- img {
+ .topic{
+   text-align: center;
+ }
+ .pictures {
     padding-bottom: 15px;
+    width: 500px;
+    margin-top: 20px;
+    align-content: center;
 }
  figcaption {
     padding-bottom: 50px;
