@@ -4,16 +4,25 @@
     margin-left: 10%;
     font-weight: 500;
     font-size: larger;
+    line-height: 30px;
  }
  .topic{
    text-align: center;
  }
- .pictures {
+ div.pic1{width: 100%;
+   padding-right: 50px;
+   margin-left: 25%;
+   
+  
+
+
+ }
+ div.pictures {
     padding-bottom: 15px;
-    width: 500px;
+    width: 100%;
     margin-top: 20px;
-    align-content: center;
+    text-align: center;
 }
  figcaption {
-    padding-bottom: 50px;
+    padding-bottom: 30px;
  }
